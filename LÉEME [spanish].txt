@@ -1,0 +1,8 @@
+Una calculadora basica, con sus dos operaciones de decremento y sus dos de incremento.
+Esta calculadora es un ejemplo en la red para comprovar la conexion P2P.
+Damos por finalizada la fase pre pre-beta.
+
+Moderador en Guia @blabla pffu
+			-Twitter
+			-Reddit
+			-Threads
